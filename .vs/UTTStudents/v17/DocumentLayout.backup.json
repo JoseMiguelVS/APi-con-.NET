@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F06DDE-CE40-49DF-9DA3-5CB792D6DC0D}|UTTStudents\\UTTStudents.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\uttstudents\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F06DDE-CE40-49DF-9DA3-5CB792D6DC0D}|UTTStudents\\UTTStudents.csproj|solutionrelative:uttstudents\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\models\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|solutionrelative:models\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\models\\dtos\\studentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|solutionrelative:models\\dtos\\studentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F06DDE-CE40-49DF-9DA3-5CB792D6DC0D}|UTTStudents\\UTTStudents.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\uttstudents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F06DDE-CE40-49DF-9DA3-5CB792D6DC0D}|UTTStudents\\UTTStudents.csproj|solutionrelative:uttstudents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\models\\studentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|solutionrelative:models\\studentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|c:\\users\\josem\\onedrive\\documentos\\tallernet\\uttstudents\\models\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BD203A-7252-4AE3-B9D8-72DD6E669485}|Models\\Models.csproj|solutionrelative:models\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\DTOs\\UpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateDTO.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\DTOs\\UpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:05:24.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\UTTStudents\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "UTTStudents\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\UTTStudents\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "UTTStudents\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:58:48.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\DTOs\\StudentsDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\StudentsDTO.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\DTOs\\StudentsDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\StudentsDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:22:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\Entities\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Students.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\Entities\\Students.cs",
+              "RelativeToolTip": "Models\\Entities\\Students.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:16:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T16:15:46.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\StudentsDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentsDbContext.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\Models\\StudentsDbContext.cs",
+              "RelativeToolTip": "Models\\StudentsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:04:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\UTTStudents\\Program.cs",
+              "RelativeDocumentMoniker": "UTTStudents\\Program.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\TallerNet\\UTTStudents\\UTTStudents\\Program.cs",
+              "RelativeToolTip": "UTTStudents\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:47:55.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
